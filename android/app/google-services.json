@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923690316681",
+    "project_id": "spare-e5231",
+    "storage_bucket": "spare-e5231.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923690316681:android:72a4e5168834877749a758",
+        "android_client_info": {
+          "package_name": "com.example.donation_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2EJMQHy62obxkckVY4uwqAnaNjivMniw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
